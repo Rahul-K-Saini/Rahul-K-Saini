@@ -63,11 +63,3 @@ Full-stack developer passionate about building robust and performant web applica
 <div align="start">
   <img src="https://visitcount.itsvg.in/api?id=Rahul-K-Saini&label=Profile%20Views&pretty=false" alt="Profile Views" />
 </div>
-
-## 🌐 Connect with Me
-[Add your social media links or contact information here]
-
-## 📝 Additional Notes
-- 🌱 Always eager to learn and grow
-- 💬 Ask me about web development, technology trends
-- 📫 How to reach me: [Your contact method]
