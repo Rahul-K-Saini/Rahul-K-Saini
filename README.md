@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rahul Saini
 
-Full-stack developer passionate about building robust and performant web applications and exploring new technologies.
+Full-stack developer passionate about building robust and performant web applications and exploring new technologies currently learning Golang.
 
 ## 🚀 About Me
 - 💻 Full-stack developer with expertise in modern web technologies
