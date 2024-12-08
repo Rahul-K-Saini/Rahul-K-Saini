@@ -54,12 +54,3 @@ Full-stack developer passionate about building robust and performant web applica
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-K-Saini&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-K-Saini&theme=default&hide_border=false" alt="GitHub Streak" />
-</div>
-<div align="start">
-  <img src="https://visitcount.itsvg.in/api?id=Rahul-K-Saini&label=Profile%20Views&pretty=true" alt="Profile Views" />
-</div>
