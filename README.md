@@ -56,5 +56,5 @@ Full-stack developer passionate about building robust and performant web applica
 
 ### Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-K-Saini&layout=donut)
-[![Rahul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rahul-K-Saini&show_icons=true&theme=vision-friendly-dark)](https://github.com/Rahul-K-Saini/github-readme-stats)
+[![Rahul's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Rahul-K-Saini&show_icons=true&theme=graywhite)](https://github.com/Rahul-K-Saini/github-readme-stats)
 
