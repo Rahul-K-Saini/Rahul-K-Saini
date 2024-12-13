@@ -55,5 +55,5 @@ Full-stack developer passionate about building robust and performant web applica
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ### Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-K-Saini&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-K-Saini&layout=donut)
 
